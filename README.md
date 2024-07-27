@@ -8,7 +8,7 @@ If you want to consult the RGB and reference data:
 
 'starting_workspace.mat': this workspace contains the starting RGB and
 reference data. 
-However, they are private data. For each subject we worked with (67850 x 3) double matrix,
+However, those are private data. For each subject we worked with (67850 x 3) double matrix,
 meaning approximately 10 minutes (sampling frequency 115 Hz) of R, G & B signals. Reference data are (67850 x 1) double.
 
 The only scripts to be run are the following two:
